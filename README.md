@@ -5,6 +5,20 @@
 - reboot, touch should work.
 - [setup git token for rpi](https://www.youtube.com/watch?v=iLrywUfs7yU). now git works both ways (push and pull). done.
 
+# Steps according to mishka
+
+1. rpi from scratch - wifi + touch + git. - V
+2. rpiplay mirrorscreen see it works good.
+document it to see it works good.
+configure it correctly. 
+
+then afterwards control 
+
+3. try esp to iphone commands.
+esp mouse absolute.
+start from there.
+afterwards connect.
+
 # Introduction
 
 An open-source implementation of an AirPlay mirroring server for the Raspberry Pi.
