@@ -1,3 +1,12 @@
+ # Initial setup for ScreenZ
+- download [official image of rpi]([url](https://www.raspberrypi.com/software/)) and burn onto flash drive.
+- connect to rpi and connect power supply. screen should work but not touch.
+- change setting file (located at /boot/firmware/config.txt) accoring to [this file](https://github.com/Shumzi/RPiPlay/blob/master/doc/config.txt).
+- reboot, touch should work.
+- [setup git token for rpi]([url](https://www.youtube.com/watch?v=iLrywUfs7yU)). now git works both ways (push and pull). done.
+
+https://www.youtube.com/watch?v=iLrywUfs7yU
+
 # Introduction
 
 An open-source implementation of an AirPlay mirroring server for the Raspberry Pi.
